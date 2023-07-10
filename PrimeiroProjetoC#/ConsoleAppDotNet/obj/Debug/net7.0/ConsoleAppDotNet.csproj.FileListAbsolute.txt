@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\bin\Debug\net7.0\ConsoleAppDotNet.exe
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\bin\Debug\net7.0\ConsoleAppDotNet.deps.json
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\bin\Debug\net7.0\ConsoleAppDotNet.runtimeconfig.json
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\bin\Debug\net7.0\ConsoleAppDotNet.dll
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\bin\Debug\net7.0\ConsoleAppDotNet.pdb
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\obj\Debug\net7.0\ConsoleAppDotNet.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\obj\Debug\net7.0\ConsoleAppDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\obj\Debug\net7.0\ConsoleAppDotNet.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\obj\Debug\net7.0\ConsoleAppDotNet.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\obj\Debug\net7.0\ConsoleAppDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\obj\Debug\net7.0\ConsoleAppDotNet.dll
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\obj\Debug\net7.0\refint\ConsoleAppDotNet.dll
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\obj\Debug\net7.0\ConsoleAppDotNet.pdb
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\obj\Debug\net7.0\ConsoleAppDotNet.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNet\obj\Debug\net7.0\ref\ConsoleAppDotNet.dll

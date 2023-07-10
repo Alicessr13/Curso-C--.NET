@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\bin\Debug\net7.0\ConsoleAppDotNetTopLevel.exe
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\bin\Debug\net7.0\ConsoleAppDotNetTopLevel.deps.json
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\bin\Debug\net7.0\ConsoleAppDotNetTopLevel.runtimeconfig.json
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\bin\Debug\net7.0\ConsoleAppDotNetTopLevel.dll
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\bin\Debug\net7.0\ConsoleAppDotNetTopLevel.pdb
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\obj\Debug\net7.0\ConsoleAppDotNetTopLevel.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\obj\Debug\net7.0\ConsoleAppDotNetTopLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\obj\Debug\net7.0\ConsoleAppDotNetTopLevel.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\obj\Debug\net7.0\ConsoleAppDotNetTopLevel.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\obj\Debug\net7.0\ConsoleAppDotNetTopLevel.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\obj\Debug\net7.0\ConsoleAppDotNetTopLevel.dll
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\obj\Debug\net7.0\refint\ConsoleAppDotNetTopLevel.dll
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\obj\Debug\net7.0\ConsoleAppDotNetTopLevel.pdb
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\obj\Debug\net7.0\ConsoleAppDotNetTopLevel.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppDotNetTopLevel\obj\Debug\net7.0\ref\ConsoleAppDotNetTopLevel.dll

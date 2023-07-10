@@ -1,0 +1,8 @@
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppNetFramework\bin\Debug\ConsoleAppNetFramework.exe.config
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppNetFramework\bin\Debug\ConsoleAppNetFramework.exe
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppNetFramework\bin\Debug\ConsoleAppNetFramework.pdb
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.exe
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.pdb

@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\bin\Debug\net7.0\ExercicioInverterNomes.exe
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\bin\Debug\net7.0\ExercicioInverterNomes.deps.json
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\bin\Debug\net7.0\ExercicioInverterNomes.runtimeconfig.json
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\bin\Debug\net7.0\ExercicioInverterNomes.dll
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\bin\Debug\net7.0\ExercicioInverterNomes.pdb
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\obj\Debug\net7.0\ExercicioInverterNomes.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\obj\Debug\net7.0\ExercicioInverterNomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\obj\Debug\net7.0\ExercicioInverterNomes.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\obj\Debug\net7.0\ExercicioInverterNomes.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\obj\Debug\net7.0\ExercicioInverterNomes.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\obj\Debug\net7.0\ExercicioInverterNomes.dll
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\obj\Debug\net7.0\refint\ExercicioInverterNomes.dll
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\obj\Debug\net7.0\ExercicioInverterNomes.pdb
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\obj\Debug\net7.0\ExercicioInverterNomes.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\CursoC#\ExercicioInverterNomes\ExercicioInverterNomes\obj\Debug\net7.0\ref\ExercicioInverterNomes.dll

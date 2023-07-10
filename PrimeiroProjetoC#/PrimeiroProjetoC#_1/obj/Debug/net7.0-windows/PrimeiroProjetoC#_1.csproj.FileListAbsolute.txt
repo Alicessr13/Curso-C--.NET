@@ -1,0 +1,17 @@
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\bin\Debug\net7.0-windows\PrimeiroProjetoC#_1.exe
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\bin\Debug\net7.0-windows\PrimeiroProjetoC#_1.deps.json
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\bin\Debug\net7.0-windows\PrimeiroProjetoC#_1.runtimeconfig.json
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\bin\Debug\net7.0-windows\PrimeiroProjetoC#_1.dll
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\bin\Debug\net7.0-windows\PrimeiroProjetoC#_1.pdb
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Debug\net7.0-windows\PrimeiroProjetoC#_1.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Debug\net7.0-windows\PrimeiroProjetoC__1.Form1.resources
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Debug\net7.0-windows\PrimeiroProjetoC#_1.csproj.GenerateResource.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Debug\net7.0-windows\PrimeiroProjetoC#_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Debug\net7.0-windows\PrimeiroProjetoC#_1.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Debug\net7.0-windows\PrimeiroProjetoC#_1.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Debug\net7.0-windows\PrimeiroProjetoC#_1.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Debug\net7.0-windows\PrimeiroProjetoC#_1.dll
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Debug\net7.0-windows\refint\PrimeiroProjetoC#_1.dll
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Debug\net7.0-windows\PrimeiroProjetoC#_1.pdb
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Debug\net7.0-windows\PrimeiroProjetoC#_1.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Debug\net7.0-windows\ref\PrimeiroProjetoC#_1.dll

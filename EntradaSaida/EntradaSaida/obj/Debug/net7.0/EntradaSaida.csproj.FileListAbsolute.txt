@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\bin\Debug\net7.0\EntradaSaida.exe
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\bin\Debug\net7.0\EntradaSaida.deps.json
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\bin\Debug\net7.0\EntradaSaida.runtimeconfig.json
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\bin\Debug\net7.0\EntradaSaida.dll
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\bin\Debug\net7.0\EntradaSaida.pdb
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\obj\Debug\net7.0\EntradaSaida.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\obj\Debug\net7.0\EntradaSaida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\obj\Debug\net7.0\EntradaSaida.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\obj\Debug\net7.0\EntradaSaida.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\obj\Debug\net7.0\EntradaSaida.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\obj\Debug\net7.0\EntradaSaida.dll
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\obj\Debug\net7.0\refint\EntradaSaida.dll
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\obj\Debug\net7.0\EntradaSaida.pdb
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\obj\Debug\net7.0\EntradaSaida.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\CursoC#\EntradaSaida\EntradaSaida\obj\Debug\net7.0\ref\EntradaSaida.dll

@@ -1,0 +1,17 @@
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\bin\Release\net7.0-windows\FormsAppDotNet.exe
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\bin\Release\net7.0-windows\FormsAppDotNet.deps.json
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\bin\Release\net7.0-windows\FormsAppDotNet.runtimeconfig.json
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\bin\Release\net7.0-windows\FormsAppDotNet.dll
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\bin\Release\net7.0-windows\FormsAppDotNet.pdb
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Release\net7.0-windows\FormsAppDotNet.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Release\net7.0-windows\PrimeiroProjetoC__1.Form1.resources
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Release\net7.0-windows\FormsAppDotNet.csproj.GenerateResource.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Release\net7.0-windows\FormsAppDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Release\net7.0-windows\FormsAppDotNet.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Release\net7.0-windows\FormsAppDotNet.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Release\net7.0-windows\FormsAppDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Release\net7.0-windows\FormsAppDotNet.dll
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Release\net7.0-windows\refint\FormsAppDotNet.dll
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Release\net7.0-windows\FormsAppDotNet.pdb
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Release\net7.0-windows\FormsAppDotNet.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\CursoC#\PrimeiroProjetoC#\PrimeiroProjetoC#_1\obj\Release\net7.0-windows\ref\FormsAppDotNet.dll
