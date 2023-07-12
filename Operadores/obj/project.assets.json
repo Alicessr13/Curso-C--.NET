@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alicessr\\Documents\\CursoC#\\Operadores\\Operadores.csproj",
+      "projectUniqueName": "C:\\Users\\Alicessr\\Documents\\GitHub\\Curso-C--.NET\\Operadores\\Operadores.csproj",
       "projectName": "Operadores",
-      "projectPath": "C:\\Users\\Alicessr\\Documents\\CursoC#\\Operadores\\Operadores.csproj",
+      "projectPath": "C:\\Users\\Alicessr\\Documents\\GitHub\\Curso-C--.NET\\Operadores\\Operadores.csproj",
       "packagesPath": "C:\\Users\\Alicessr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alicessr\\Documents\\CursoC#\\Operadores\\obj\\",
+      "outputPath": "C:\\Users\\Alicessr\\Documents\\GitHub\\Curso-C--.NET\\Operadores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alicessr\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4,7 +4,22 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int num1 = 15;
+
+            int num2 = 2;
+
+            //int resultado = num1 + num2;
+
+            Console.WriteLine(num1 + num2);
+
+            Console.WriteLine(num1 - num2);
+
+            Console.WriteLine(num1 * num2);
+
+            Console.WriteLine(num1 / num2);
+
+            Console.WriteLine(num1 % num2);
+            Console.ReadKey();
         }
     }
 }
