@@ -10,15 +10,15 @@
 
             //int resultado = num1 + num2;
 
-            Console.WriteLine(num1 + num2);
+            Console.WriteLine(num1 + num2+"\n");
 
-            Console.WriteLine(num1 - num2);
+            Console.WriteLine(num1 - num2+"\n");
 
-            Console.WriteLine(num1 * num2);
+            Console.WriteLine(num1 * num2 + "\n");
 
-            Console.WriteLine(num1 / num2);
+            Console.WriteLine(num1 / num2 + "\n");
 
-            Console.WriteLine(num1 % num2);
+            Console.WriteLine(num1 % num2 + "\n");
             Console.ReadKey();
         }
     }
