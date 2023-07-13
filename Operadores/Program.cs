@@ -87,8 +87,52 @@ namespace Operadores
 
             nome2 += " Stephanie";
 
-            Console.WriteLine(numero1);
-            Console.WriteLine(nome2);
+            //Console.WriteLine(numero1);
+            //Console.WriteLine(nome2);
+
+            #endregion
+
+            #region igualdade
+
+            bool res = 100 == 50*2;
+
+            bool res2 = 200 / 2 != 100+100;
+
+            string nome3 = "Alice";
+
+            bool res3 = nome3 == "Ste";
+
+            //Console.WriteLine(res3);
+
+            #endregion
+
+            #region relacionais
+
+            bool ver = 100 < 50+65;
+
+            bool ver2 = 100 > 50;
+
+            bool ver3 = 100 <= 50 * 2;
+
+            bool ver4 = 75 >= 50 * 2;
+
+            //Console.WriteLine(ver4);
+
+            #endregion
+
+            #region lógicos
+            // && (and) as duas expressões precisam ser verdadeiras
+            // || (or) pelo menos delas é verdadeira
+
+            bool ver5 = 100 > 50;
+
+            bool ver6 = 50 != 50;
+
+            bool final = ver5 && ver6;
+
+            bool final2 = ver5 || ver6;
+
+            //Console.WriteLine(final2);
 
             #endregion
 
