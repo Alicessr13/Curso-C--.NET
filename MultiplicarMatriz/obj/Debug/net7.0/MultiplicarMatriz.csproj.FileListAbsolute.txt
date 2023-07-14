@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\bin\Debug\net7.0\MultiplicarMatriz.exe
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\bin\Debug\net7.0\MultiplicarMatriz.deps.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\bin\Debug\net7.0\MultiplicarMatriz.runtimeconfig.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\bin\Debug\net7.0\MultiplicarMatriz.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\bin\Debug\net7.0\MultiplicarMatriz.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\obj\Debug\net7.0\MultiplicarMatriz.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\obj\Debug\net7.0\MultiplicarMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\obj\Debug\net7.0\MultiplicarMatriz.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\obj\Debug\net7.0\MultiplicarMatriz.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\obj\Debug\net7.0\MultiplicarMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\obj\Debug\net7.0\MultiplicarMatriz.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\obj\Debug\net7.0\refint\MultiplicarMatriz.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\obj\Debug\net7.0\MultiplicarMatriz.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\obj\Debug\net7.0\MultiplicarMatriz.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\MultiplicarMatriz\obj\Debug\net7.0\ref\MultiplicarMatriz.dll
