@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\bin\Debug\net7.0\EstruturasCondicionais.exe
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\bin\Debug\net7.0\EstruturasCondicionais.deps.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\bin\Debug\net7.0\EstruturasCondicionais.runtimeconfig.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\bin\Debug\net7.0\EstruturasCondicionais.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\bin\Debug\net7.0\EstruturasCondicionais.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\obj\Debug\net7.0\EstruturasCondicionais.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\obj\Debug\net7.0\EstruturasCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\obj\Debug\net7.0\EstruturasCondicionais.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\obj\Debug\net7.0\EstruturasCondicionais.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\obj\Debug\net7.0\EstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\obj\Debug\net7.0\EstruturasCondicionais.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\obj\Debug\net7.0\refint\EstruturasCondicionais.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\obj\Debug\net7.0\EstruturasCondicionais.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\obj\Debug\net7.0\EstruturasCondicionais.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasCondicionais\obj\Debug\net7.0\ref\EstruturasCondicionais.dll
