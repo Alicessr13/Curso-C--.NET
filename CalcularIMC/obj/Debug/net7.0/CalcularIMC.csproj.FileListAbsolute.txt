@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\bin\Debug\net7.0\CalcularIMC.exe
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\bin\Debug\net7.0\CalcularIMC.deps.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\bin\Debug\net7.0\CalcularIMC.runtimeconfig.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\bin\Debug\net7.0\CalcularIMC.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\bin\Debug\net7.0\CalcularIMC.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\obj\Debug\net7.0\CalcularIMC.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\obj\Debug\net7.0\CalcularIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\obj\Debug\net7.0\CalcularIMC.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\obj\Debug\net7.0\CalcularIMC.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\obj\Debug\net7.0\CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\obj\Debug\net7.0\CalcularIMC.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\obj\Debug\net7.0\refint\CalcularIMC.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\obj\Debug\net7.0\CalcularIMC.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\obj\Debug\net7.0\CalcularIMC.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\CalcularIMC\obj\Debug\net7.0\ref\CalcularIMC.dll
