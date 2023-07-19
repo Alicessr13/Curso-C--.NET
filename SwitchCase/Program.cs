@@ -11,11 +11,14 @@
                 case 1:
                     Console.WriteLine("Opção 1");
                     break;
+
                 case 2:
-                    Console.WriteLine("Opção 1");
+                    Console.WriteLine("Opção 2");
                     break;
-                case 3:
-                    Console.WriteLine("Opção 1");
+
+                case 3: //como não tem um break se for escolido a opção 3 ou 4 será executado o mesmo código
+                case 4:
+                    Console.WriteLine("Opção combinada");
                     break;
 
                 default:

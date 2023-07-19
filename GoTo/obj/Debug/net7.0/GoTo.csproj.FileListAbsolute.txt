@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\bin\Debug\net7.0\GoTo.exe
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\bin\Debug\net7.0\GoTo.deps.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\bin\Debug\net7.0\GoTo.runtimeconfig.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\bin\Debug\net7.0\GoTo.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\bin\Debug\net7.0\GoTo.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\obj\Debug\net7.0\GoTo.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\obj\Debug\net7.0\GoTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\obj\Debug\net7.0\GoTo.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\obj\Debug\net7.0\GoTo.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\obj\Debug\net7.0\GoTo.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\obj\Debug\net7.0\GoTo.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\obj\Debug\net7.0\refint\GoTo.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\obj\Debug\net7.0\GoTo.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\obj\Debug\net7.0\GoTo.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\GoTo\obj\Debug\net7.0\ref\GoTo.dll
