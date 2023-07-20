@@ -27,12 +27,23 @@
 
             #endregion
 
-            #region
+            #region for
             
             for(int i = 0, j = 10; i < 10; i++, j--)
             {
-                Console.WriteLine("i = "+i+" | j = "+j);
+                //Console.WriteLine("i = "+i+" | j = "+j);
 
+            }
+
+            #endregion
+
+            #region foreach
+
+            string[] nomes = { "Alice", "Gabriel", "Artur", "João"};
+
+            foreach (string nome in nomes) //coloca os valores de nomes na variavel nome até terminar o array
+            {
+                Console.WriteLine("Nome: "+nome);
             }
 
             #endregion
