@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\bin\Debug\net7.0\EstruturasRepetição.exe
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\bin\Debug\net7.0\EstruturasRepetição.deps.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\bin\Debug\net7.0\EstruturasRepetição.runtimeconfig.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\bin\Debug\net7.0\EstruturasRepetição.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\bin\Debug\net7.0\EstruturasRepetição.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\obj\Debug\net7.0\EstruturasRepetição.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\obj\Debug\net7.0\EstruturasRepetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\obj\Debug\net7.0\EstruturasRepetição.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\obj\Debug\net7.0\EstruturasRepetição.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\obj\Debug\net7.0\EstruturasRepetição.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\obj\Debug\net7.0\EstruturasRepetição.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\obj\Debug\net7.0\refint\EstruturasRepetição.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\obj\Debug\net7.0\EstruturasRepetição.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\obj\Debug\net7.0\EstruturasRepetição.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\EstruturasRepetição\obj\Debug\net7.0\ref\EstruturasRepetição.dll
