@@ -39,5 +39,27 @@ namespace MetodosClasses
             valor += 10;
             Console.WriteLine("Valor final (por referencia) é: " + valor);
         }
+
+        //metodos com retorno de valores
+        public string MontaNome(string nome, string sobrenome)
+        {
+            //string nomeCompleto = nome +" "+ sobrenome;
+            //return nomeCompleto;
+
+            return nome + " " + sobrenome;
+        }
+
+        public int CodigoChar(char caractere)
+        {
+            //int codigo = (int)caractere; 
+            //return codigo;
+
+            return caractere;
+        }
+
+        public double ValorPI()
+        {
+            return 3.1415;
+        }
     }
 }

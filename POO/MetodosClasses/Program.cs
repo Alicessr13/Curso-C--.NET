@@ -18,8 +18,18 @@
 
             Console.WriteLine();
 
-            Console.WriteLine("Valor 1: " + num1);
-            Console.WriteLine("Valor 2: " + num2);
+            Console.WriteLine("Valor 1: " + num1); //100
+            Console.WriteLine("Valor 2: " + num2); //110
+
+            Console.WriteLine();
+
+            string nomeCompleto = m.MontaNome("Alice", "Stephanie");
+            int codigoChar = m.CodigoChar('a');
+            double PI = m.ValorPI();
+
+            Console.WriteLine(nomeCompleto);
+            Console.WriteLine(codigoChar);
+            Console.WriteLine(PI);
 
             Console.ReadKey();
 
