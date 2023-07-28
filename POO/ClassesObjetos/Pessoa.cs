@@ -12,5 +12,11 @@ namespace ClassesObjetos
         public string nome;
         public string sobrenome;
         public int anoNascimento;
+
+        //metodo simples sem retorno
+        public void Comprimentar()
+        {
+            Console.WriteLine("Ola eu sou "+nome+" "+sobrenome);
+        }
     }
 }
