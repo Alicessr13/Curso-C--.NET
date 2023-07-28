@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\bin\Debug\net7.0\ClassesObjetos.exe
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\bin\Debug\net7.0\ClassesObjetos.deps.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\bin\Debug\net7.0\ClassesObjetos.runtimeconfig.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\bin\Debug\net7.0\ClassesObjetos.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\bin\Debug\net7.0\ClassesObjetos.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\obj\Debug\net7.0\refint\ClassesObjetos.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\obj\Debug\net7.0\ClassesObjetos.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClassesObjetos\obj\Debug\net7.0\ref\ClassesObjetos.dll

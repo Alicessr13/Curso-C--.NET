@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alicessr\\Desktop\\POO\\ClassesObjetos\\ClassesObjetos.csproj",
+      "projectUniqueName": "C:\\Users\\Alicessr\\Documents\\GitHub\\Curso-C--.NET\\POO\\ClassesObjetos\\ClassesObjetos.csproj",
       "projectName": "ClassesObjetos",
-      "projectPath": "C:\\Users\\Alicessr\\Desktop\\POO\\ClassesObjetos\\ClassesObjetos.csproj",
+      "projectPath": "C:\\Users\\Alicessr\\Documents\\GitHub\\Curso-C--.NET\\POO\\ClassesObjetos\\ClassesObjetos.csproj",
       "packagesPath": "C:\\Users\\Alicessr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alicessr\\Desktop\\POO\\ClassesObjetos\\obj\\",
+      "outputPath": "C:\\Users\\Alicessr\\Documents\\GitHub\\Curso-C--.NET\\POO\\ClassesObjetos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alicessr\\AppData\\Roaming\\NuGet\\NuGet.Config",
