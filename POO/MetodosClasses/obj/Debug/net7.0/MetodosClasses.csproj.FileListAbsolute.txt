@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\bin\Debug\net7.0\MetodosClasses.exe
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\bin\Debug\net7.0\MetodosClasses.deps.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\bin\Debug\net7.0\MetodosClasses.runtimeconfig.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\bin\Debug\net7.0\MetodosClasses.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\bin\Debug\net7.0\MetodosClasses.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\obj\Debug\net7.0\MetodosClasses.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\obj\Debug\net7.0\MetodosClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\obj\Debug\net7.0\MetodosClasses.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\obj\Debug\net7.0\MetodosClasses.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\obj\Debug\net7.0\MetodosClasses.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\obj\Debug\net7.0\MetodosClasses.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\obj\Debug\net7.0\refint\MetodosClasses.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\obj\Debug\net7.0\MetodosClasses.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\obj\Debug\net7.0\MetodosClasses.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodosClasses\obj\Debug\net7.0\ref\MetodosClasses.dll
