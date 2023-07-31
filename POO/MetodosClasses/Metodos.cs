@@ -61,5 +61,27 @@ namespace MetodosClasses
         {
             return 3.1415;
         }
+
+        //sobrecarga de metodos
+        public void Comprimentar(string nome) //para ocorrer a sobrecarga do metodo precisa mudar o parametro, mesmo com retorno diferente
+        {
+            Console.WriteLine("Ola "+nome);
+        }
+
+        public void Comprimentar(string nome, int hora) //assinaturas diferentes
+        {
+            string mensagem = hora < 12 ? "Bom dia " + nome : "Boa tarde " + nome;
+            Console.WriteLine(mensagem);
+        }
+
+        public bool Comparar(int num, int num2)
+        {
+            return num == num2;
+        }
+
+        public bool Comparar(string txt1, string txt2)
+        {
+            return txt1 == txt2;
+        }
     }
 }
