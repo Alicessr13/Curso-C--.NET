@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\bin\Debug\net7.0\TermoThis.exe
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\bin\Debug\net7.0\TermoThis.deps.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\bin\Debug\net7.0\TermoThis.runtimeconfig.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\bin\Debug\net7.0\TermoThis.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\bin\Debug\net7.0\TermoThis.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\obj\Debug\net7.0\TermoThis.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\obj\Debug\net7.0\TermoThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\obj\Debug\net7.0\TermoThis.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\obj\Debug\net7.0\TermoThis.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\obj\Debug\net7.0\TermoThis.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\obj\Debug\net7.0\TermoThis.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\obj\Debug\net7.0\refint\TermoThis.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\obj\Debug\net7.0\TermoThis.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\obj\Debug\net7.0\TermoThis.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TermoThis\obj\Debug\net7.0\ref\TermoThis.dll
