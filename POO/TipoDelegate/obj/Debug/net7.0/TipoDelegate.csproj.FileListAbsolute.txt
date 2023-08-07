@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\bin\Debug\net7.0\TipoDelegate.exe
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\bin\Debug\net7.0\TipoDelegate.deps.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\bin\Debug\net7.0\TipoDelegate.runtimeconfig.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\bin\Debug\net7.0\TipoDelegate.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\bin\Debug\net7.0\TipoDelegate.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\obj\Debug\net7.0\TipoDelegate.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\obj\Debug\net7.0\TipoDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\obj\Debug\net7.0\TipoDelegate.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\obj\Debug\net7.0\TipoDelegate.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\obj\Debug\net7.0\TipoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\obj\Debug\net7.0\TipoDelegate.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\obj\Debug\net7.0\refint\TipoDelegate.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\obj\Debug\net7.0\TipoDelegate.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\obj\Debug\net7.0\TipoDelegate.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\TipoDelegate\obj\Debug\net7.0\ref\TipoDelegate.dll
