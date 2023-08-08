@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesObjetos", "ClassesOb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosClasses", "MetodosClasses\MetodosClasses.csproj", "{80578F12-1151-4C7D-A60B-87AFFB1DE703}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TermoThis", "TermoThis\TermoThis.csproj", "{B336CEE5-E395-40EC-B545-4B2FF0F8F189}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TermoThis", "TermoThis\TermoThis.csproj", "{B336CEE5-E395-40EC-B545-4B2FF0F8F189}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoDelegate", "TipoDelegate\TipoDelegate.csproj", "{B09D9A63-057C-4555-B6AB-5A653C96FC2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoDelegate", "TipoDelegate\TipoDelegate.csproj", "{B09D9A63-057C-4555-B6AB-5A653C96FC2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoConstrutor", "MetodoConstrutor\MetodoConstrutor.csproj", "{EA2D34D4-5C2A-4C52-AF4F-2A352937F098}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B09D9A63-057C-4555-B6AB-5A653C96FC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B09D9A63-057C-4555-B6AB-5A653C96FC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B09D9A63-057C-4555-B6AB-5A653C96FC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2D34D4-5C2A-4C52-AF4F-2A352937F098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2D34D4-5C2A-4C52-AF4F-2A352937F098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2D34D4-5C2A-4C52-AF4F-2A352937F098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2D34D4-5C2A-4C52-AF4F-2A352937F098}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

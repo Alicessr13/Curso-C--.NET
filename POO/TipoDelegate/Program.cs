@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        delegate void Operacao(int num1, int num2);
+        delegate int Operacao(int num1, int num2); //pode ser criado com qualquer tipo de retorno e qualquer tipo de assinatura
         static void Main(string[] args)
         {
             //delegate e um tipo personalizado

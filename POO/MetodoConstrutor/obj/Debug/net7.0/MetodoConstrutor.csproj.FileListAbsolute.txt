@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\bin\Debug\net7.0\MetodoConstrutor.exe
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\bin\Debug\net7.0\MetodoConstrutor.deps.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\bin\Debug\net7.0\MetodoConstrutor.runtimeconfig.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\bin\Debug\net7.0\MetodoConstrutor.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\bin\Debug\net7.0\MetodoConstrutor.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\obj\Debug\net7.0\MetodoConstrutor.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\obj\Debug\net7.0\MetodoConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\obj\Debug\net7.0\MetodoConstrutor.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\obj\Debug\net7.0\MetodoConstrutor.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\obj\Debug\net7.0\MetodoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\obj\Debug\net7.0\MetodoConstrutor.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\obj\Debug\net7.0\refint\MetodoConstrutor.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\obj\Debug\net7.0\MetodoConstrutor.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\obj\Debug\net7.0\MetodoConstrutor.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\MetodoConstrutor\obj\Debug\net7.0\ref\MetodoConstrutor.dll
