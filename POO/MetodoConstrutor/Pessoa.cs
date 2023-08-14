@@ -20,5 +20,26 @@ namespace MetodoConstrutor
             anoNasc = 0;
             idade = 0;
         }
+
+        public Pessoa(string nome, string sobrenome, int anoNasc)
+        {
+            this.nome = nome;
+            this.sobrenome = sobrenome;
+            this.anoNasc = anoNasc;
+            idade = Idade();
+        }
+
+        private int Idade ()
+        {
+            return 2023 - anoNasc;
+        }
+
+        public Pessoa(string nome, string sobrenome)
+        {
+            this.nome = nome;
+            this.sobrenome = sobrenome;
+            this.anoNasc = 2002; 
+            idade = Idade();
+        }
     }
 }
