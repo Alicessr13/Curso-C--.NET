@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TermoThis", "TermoThis\Term
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoDelegate", "TipoDelegate\TipoDelegate.csproj", "{B09D9A63-057C-4555-B6AB-5A653C96FC2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoConstrutor", "MetodoConstrutor\MetodoConstrutor.csproj", "{EA2D34D4-5C2A-4C52-AF4F-2A352937F098}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodoConstrutor", "MetodoConstrutor\MetodoConstrutor.csproj", "{EA2D34D4-5C2A-4C52-AF4F-2A352937F098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseEstatica", "ClasseEstatica\ClasseEstatica.csproj", "{916065EE-14AF-4500-BC02-8941B0E9D5B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{EA2D34D4-5C2A-4C52-AF4F-2A352937F098}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA2D34D4-5C2A-4C52-AF4F-2A352937F098}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA2D34D4-5C2A-4C52-AF4F-2A352937F098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916065EE-14AF-4500-BC02-8941B0E9D5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916065EE-14AF-4500-BC02-8941B0E9D5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916065EE-14AF-4500-BC02-8941B0E9D5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916065EE-14AF-4500-BC02-8941B0E9D5B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

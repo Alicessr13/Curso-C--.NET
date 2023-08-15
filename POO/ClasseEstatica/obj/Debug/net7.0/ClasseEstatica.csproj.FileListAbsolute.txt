@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\bin\Debug\net7.0\ClasseEstatica.exe
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\bin\Debug\net7.0\ClasseEstatica.deps.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\bin\Debug\net7.0\ClasseEstatica.runtimeconfig.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\bin\Debug\net7.0\ClasseEstatica.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\bin\Debug\net7.0\ClasseEstatica.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\obj\Debug\net7.0\ClasseEstatica.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\obj\Debug\net7.0\ClasseEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\obj\Debug\net7.0\ClasseEstatica.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\obj\Debug\net7.0\ClasseEstatica.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\obj\Debug\net7.0\ClasseEstatica.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\obj\Debug\net7.0\ClasseEstatica.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\obj\Debug\net7.0\refint\ClasseEstatica.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\obj\Debug\net7.0\ClasseEstatica.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\obj\Debug\net7.0\ClasseEstatica.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\ClasseEstatica\obj\Debug\net7.0\ref\ClasseEstatica.dll
