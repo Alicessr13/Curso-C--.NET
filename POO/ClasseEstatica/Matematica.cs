@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClasseEstatica
+namespace Estatica
 {
     static internal class Matematica
     {

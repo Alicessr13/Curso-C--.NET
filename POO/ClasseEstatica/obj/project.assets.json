@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alicessr\\Documents\\GitHub\\Curso-C--.NET\\POO\\ClasseEstatica\\ClasseEstatica.csproj",
-      "projectName": "ClasseEstatica",
-      "projectPath": "C:\\Users\\Alicessr\\Documents\\GitHub\\Curso-C--.NET\\POO\\ClasseEstatica\\ClasseEstatica.csproj",
+      "projectUniqueName": "C:\\Users\\Alicessr\\Documents\\GitHub\\Curso-C--.NET\\POO\\ClasseEstatica\\Estatica.csproj",
+      "projectName": "Estatica",
+      "projectPath": "C:\\Users\\Alicessr\\Documents\\GitHub\\Curso-C--.NET\\POO\\ClasseEstatica\\Estatica.csproj",
       "packagesPath": "C:\\Users\\Alicessr\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Alicessr\\Documents\\GitHub\\Curso-C--.NET\\POO\\ClasseEstatica\\obj\\",
       "projectStyle": "PackageReference",

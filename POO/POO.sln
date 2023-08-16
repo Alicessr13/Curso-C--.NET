@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoDelegate", "TipoDelegat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodoConstrutor", "MetodoConstrutor\MetodoConstrutor.csproj", "{EA2D34D4-5C2A-4C52-AF4F-2A352937F098}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseEstatica", "ClasseEstatica\ClasseEstatica.csproj", "{916065EE-14AF-4500-BC02-8941B0E9D5B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estatica", "ClasseEstatica\Estatica.csproj", "{916065EE-14AF-4500-BC02-8941B0E9D5B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
