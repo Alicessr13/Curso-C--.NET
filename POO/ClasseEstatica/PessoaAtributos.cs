@@ -8,7 +8,7 @@ namespace Estatica
 {
     internal class Pessoa
     {
-        public static int maioridade = 18; //membro estattico, vale para todo o programa
+        public static int maioridade = 18; //membro estatico, vale para todo o programa
 
         public string nome; //cada objeto possui o seu 
 
