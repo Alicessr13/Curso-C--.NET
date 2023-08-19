@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Estatica
 {
-    internal class PessoaMetodos
+     internal partial class Pessoa //a mesma classe só que em arquivos diferentes para organizar melhor
     {
+        public void Apresentar()
+        {
+            Console.WriteLine("Ola eu sou " + nome); //tem acesso aos atributos da classe pessoa
+        }
+
+        public static int CalcularIdade(int anoNasc) //não precisar instanciar a classe para utilizar
+        {
+            return DateTime.Now.Year - anoNasc;
+        }
     }
 }
