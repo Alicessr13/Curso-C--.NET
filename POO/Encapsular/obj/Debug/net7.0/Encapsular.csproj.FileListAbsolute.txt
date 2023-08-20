@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\bin\Debug\net7.0\Encapsular.exe
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\bin\Debug\net7.0\Encapsular.deps.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\bin\Debug\net7.0\Encapsular.runtimeconfig.json
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\bin\Debug\net7.0\Encapsular.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\bin\Debug\net7.0\Encapsular.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\obj\Debug\net7.0\Encapsular.csproj.AssemblyReference.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\obj\Debug\net7.0\Encapsular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\obj\Debug\net7.0\Encapsular.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\obj\Debug\net7.0\Encapsular.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\obj\Debug\net7.0\Encapsular.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\obj\Debug\net7.0\Encapsular.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\obj\Debug\net7.0\refint\Encapsular.dll
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\obj\Debug\net7.0\Encapsular.pdb
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\obj\Debug\net7.0\Encapsular.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Encapsular\obj\Debug\net7.0\ref\Encapsular.dll
