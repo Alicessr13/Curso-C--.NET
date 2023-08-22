@@ -3,7 +3,6 @@ C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Heranca\bin\Debug\net7.0\He
 C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Heranca\bin\Debug\net7.0\Heranca.runtimeconfig.json
 C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Heranca\bin\Debug\net7.0\Heranca.dll
 C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Heranca\bin\Debug\net7.0\Heranca.pdb
-C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Heranca\obj\Debug\net7.0\Heranca.csproj.AssemblyReference.cache
 C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Heranca\obj\Debug\net7.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Heranca\obj\Debug\net7.0\Heranca.AssemblyInfoInputs.cache
 C:\Users\Alicessr\Documents\GitHub\Curso-C--.NET\POO\Heranca\obj\Debug\net7.0\Heranca.AssemblyInfo.cs

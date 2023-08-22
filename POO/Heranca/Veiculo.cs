@@ -6,15 +6,12 @@ using System.Threading.Tasks;
 
 namespace Heranca
 {
-    internal class Veiculo
+    internal abstract class Veiculo
     {
         public string Cor { get; set; }
         public string Marca { get; set; }
 
-        public void Acelerar()
-        {
-            Console.WriteLine("Acelerou!");
-        }
+        public abstract void Acelerar(); //metodo abstrato não tem implementação, tem que ser implementação nas classes que herdam 
 
         public void Parar()
         {
